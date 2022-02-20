@@ -1,0 +1,51 @@
+main {
+    width: 700px;
+    height: 500px;
+    background-color: rgb(241, 142, 203);
+    padding: 30px;
+}
+
+.header{
+    background-color: aquamarine;
+    width: 100%;
+    height: 50px;
+}
+
+.dois{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 400px;
+    margin-top: 15px;
+}
+
+.aside{
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 360px;
+    margin-right: 20px;
+}
+
+.article{
+    background-color: darkslateblue;
+    height: 360px;
+    width: 100%;
+}
+
+.box{
+    height: 50px;
+    width: 150px;
+}
+
+.one{
+    background-color: aqua;
+}
+
+.two{
+    background-color: blueviolet;
+}
+
+.three{
+    background-color: chartreuse;
+}
+
